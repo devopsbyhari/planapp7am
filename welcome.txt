@@ -1,1 +1,8 @@
 welcome to AWSdevops!
+
+
+welcome to GIT
+welcome to maven
+welcome to jenkins!
+welcome to docker
+
